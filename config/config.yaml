@@ -1,6 +1,6 @@
 
 astra_db:
-  collection_name: "e_commerce_chatbot_rag"
+  collection_name: "amazon_product_data"
 
 embedding_model:
   provider: "google"
